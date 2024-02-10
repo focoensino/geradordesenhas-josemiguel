@@ -84,3 +84,28 @@ border-bottom-right-radius:8px ;
 .security-indicator .bar.completed{
     border-top-right-radius:0 ;
 }
+.customize .title{
+border-bottom : 1px solid #f0f0f0;
+font-size:1.75rem;
+font-weight:bold;
+margin: bottom 2rem;
+padding-bottom:0.75rem;
+}
+.customize .actions{
+display:flex;
+gap:3rem; 
+color:#828282;      
+}
+
+.customize .password-lenght{
+flex:1;
+
+}
+.customize .password-lenght .slider{
+
+
+    
+}
+
+
+}
